@@ -1,0 +1,12 @@
+Gcc/Clang
+
+-Wall
+-Wextra
+-Wpedantic
+-Wunused
+
+
+MSVC 
+/W4
+/W14640
+/permissive
